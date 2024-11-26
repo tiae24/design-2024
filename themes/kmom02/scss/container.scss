@@ -6,6 +6,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
+  background-color: $fourth-background-color;
 }
 
 .main {
@@ -22,8 +23,13 @@ body {
   width: 100%;
   max-width: 64rem;
   padding: 2rem;
-  background-color: #fff;
+  background-color: $main-background-color;
   margin: 0 auto;
   border-right: 1px solid #000;
   border-left: 1px solid #000;
+  color: $text-color;
+}
+
+code {
+  color: #000;
 }
