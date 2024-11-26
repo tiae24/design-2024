@@ -4,7 +4,8 @@
   padding: 2rem;
   justify-content: space-between;
   align-items: center;
-  background-color: #ebebeb;
+  background-color: $second-background-color;
+  color: $text-color;
 }
 
 .site-header {
@@ -14,6 +15,11 @@
   align-items: center;
 }
 
+.site-header a {
+  color: $text-color;
+}
+
 .nav a {
   font-size: 3rem;
+  color: $text-color;
 }
