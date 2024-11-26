@@ -9,6 +9,11 @@
   justify-self: center;
 }
 
+.landing-page a {
+  color: $text-color;
+}
+
+
 .html {
   grid-column: 2/4;
 }
@@ -25,13 +30,25 @@
   grid-column: 2/4;
 }
 
+.color {
+  grid-column: 1/4;
+}
+
+.laddningstider {
+  grid-column: 1/4;
+}
+
+.design-principer {
+  grid-column: 1/4;
+}
+
 .box {
   border: 1px solid #ccc;
   padding: 1.96rem;
 }
 
 .box:hover {
-  box-shadow: 10px 10px 5px #000;
+  box-shadow: 10px 10px 5px $hover-color;
 }
 
 .technology {
@@ -47,6 +64,10 @@
 
 .technology .menu {
   width: 30%;
+}
+
+.menu a {
+  color: $text-color;
 }
 
 
