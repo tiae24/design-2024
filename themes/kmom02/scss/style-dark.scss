@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nerko+One&display=swap');
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+@import '../../node_modules/normalize.css/normalize';
+
+@import 'typography';
+@import 'variables-dark';
+
+@import 'container';
+
+@import 'header';
+
+@import 'footer';
+
+@import 'blockquotes';
+@import 'code';
+
+@import 'technology';
+
