@@ -9,7 +9,7 @@
 
             {% for tech in meta.reports %}
                 <div class="box {{ tech.class }}">
-                    <a href="{{ base_url }}/analysis/01_colors" class="abox">
+                    <a href="{{ base_url }}/analysis/{{ tech.name }} " class="abox">
                         <h1>{{ tech.name }} </h1>
                     </a>
                 </div>
