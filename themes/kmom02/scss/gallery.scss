@@ -4,3 +4,19 @@ object,
 video {
   max-width: 100%;
 }
+
+picture img {
+  border: 5px solid $text-color;
+}
+
+picture img:hover {
+  opacity: 90%;
+  border: 5px solid $main-background-color;
+}
+
+hr {
+  height: 2px;
+  border-width: 0;
+  color: $text-color;
+  background-color: $text-color;
+}
