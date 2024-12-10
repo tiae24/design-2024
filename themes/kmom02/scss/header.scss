@@ -23,3 +23,18 @@
   font-size: 3rem;
   color: $text-color;
 }
+
+li a {
+  text-decoration: none;
+}
+
+
+li a:hover {
+  text-decoration: none;
+  border-bottom: 5px solid $text-color;
+  text-shadow: 1px 1px 3px $text-color;
+}
+
+.techo-h1 {
+  font-size: 3rem;
+}
