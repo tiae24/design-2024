@@ -7,10 +7,8 @@ reports:
       class: color
     - name: 02_load
       class: laddningstider
-    - name: DESIGN-PRINCIPER
+    - name: 03_design_principles
       class: design-principer
 ---
 
-Teknologier
-==========================
-
+<h1 class="techo-h1">Rapporter</h1>
