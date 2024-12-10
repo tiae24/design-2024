@@ -7,6 +7,7 @@ body {
   display: flex;
   flex-direction: column;
   background-color: $fourth-background-color;
+  background-image: linear-gradient(to left, $third-background-color , $main-background-color, $third-background-color);
 }
 
 .main {
@@ -33,3 +34,4 @@ body {
 code {
   color: #000;
 }
+
