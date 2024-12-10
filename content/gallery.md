@@ -4,8 +4,7 @@ Description: This is our gallery page.
 Template: gallery
 ---
 
-Galleri
-==========================
+<h1 class="techo-h1">Galleri</h1>
 
 <picture>
     <a href="%base_url%/image/xmas-tree.jpg">
