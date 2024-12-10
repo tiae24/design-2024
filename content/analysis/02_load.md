@@ -19,7 +19,7 @@ Metoderna jag använde i denna undersökningen var, f12 (högerklick -> inspekte
 Jag använde dem här verktyg för att kolla hur snabbt hemsidorna laddade och vad de är som gör att de tar sån tid.
 
 Wikipedia
----------
+=======================
 <img src='../image/WIKI-START.PNG' alt='hejsan' width='800'>
 
 
@@ -33,16 +33,18 @@ Wikipedia Mobil Prestanda
 Wikipedia Desktop Prestanda
 ------------
 
-Vad som kan fixas för att göra Wikipedias sida snabbare
-------------
-Wikipedias sida var väldigt snabb redan så de var inte så mycket som kunde göra den snabbare men en sak som kunde göra att sidan blev ännu snabbare var att skicka bilderna med ett modernt bildformat.
-
 <a href='https://pagespeed.web.dev/analysis/https-sv-wikipedia-org-wiki-Portal-Huvudsida/1rqnz6cl7y?form_factor=desktop'>
 <img src='../image/Wiki-DESKTOP.PNG' alt='hejsan' width='800'>
 </a>
 
+
+Vad som kan fixas för att göra Wikipedias sida snabbare
+------------
+Wikipedias sida var väldigt snabb redan så de var inte så mycket som kunde göra den snabbare men en sak som kunde göra att sidan blev ännu snabbare var att skicka bilderna med ett modernt bildformat.
+
+
 U.GG
----------
+=======================
 
 <a href=''>
 <img src='../image/U-GG-START.PNG' alt='hejsan' width='800'>
@@ -65,7 +67,7 @@ Vad som kan fixas för att göra U.GG sida snabbare
 U.GG sida fick ganska dåliga prestandas betyg de som kan fixas för att göra sidan snabbare var Moderna bildformat, minska körningstiden för Javascript och pop up där dem frågar ifall dem får spara och använda din personliga data.
 
 Op.GG
----------
+=======================
 <img src='../image/OP-START.PNG' alt='hejsan' width='800'>
 
 OP.GG Mobil Prestanda
@@ -90,7 +92,7 @@ Excel ark för sidornas laddningstider mät med devtools
 <iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQy-VUh1r8gFSn42lk3O7sRMDCUVC2sQRu4pEyxVvSlmyXNGMEW3RBFkEqJtw4G7zIpfR8zsZLoChrC/pubhtml?widget=true&amp;headers=false"></iframe>
 
 Sammanfattning av Saker som kan förbättras
-------------
+=======================
 De som jag märkte kunde förbättras på alla 3 sidor var fixa bilder och använda modernare bildformat och rätt storlek på bilderna, minska körtiden på javascript och ta bort saker som inte används och även minska tiden det tar att tolka, kompilera och köra JS-kod. Även saker som gör sidorna långsammare är saker som popups och ads på sidorna men sidorna behöver ju sånt för att "överleva" så de är lättare sagt en gjort att bara ta bort sånna saker.
 
 Ranking
