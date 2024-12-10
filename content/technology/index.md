@@ -19,6 +19,6 @@ techs:
       class: sqlite
 ---
 
-Teknologier
-==========================
+<h1 class="techo-h1">Teknologier</h1>
+
 
