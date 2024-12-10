@@ -52,7 +52,7 @@ Ange de eventuella referenser du använder dig av, om några.
 Timothy, jag jobbade själv
 
 NBA Färgschema
------------------------
+=======================
 NBA använder sig utav ett Monokromatiskt färgschema med simpla färger, svart grått och vit.
 
 <img src='../image/NBA-sida.PNG' alt='hejsan' width='800'>
@@ -70,6 +70,7 @@ Fonten som de använde på nbas sida var "Inter",Arial,sans-serif vilket är en 
 
 
 U.GG Färgschema
+=======================
 <img src='../image/U-gg.PNG' alt='hejsan' width='800'>
 -----------------------
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -94,7 +95,7 @@ De använder även färger för att folk ska see att man kan ladda ner och logga
 
 
 Youtube Färgschema
------------------------
+=======================
 Youtube använder sig utav ett Monokromatiskt färgschema med en till färg som sticker ut lite på sidan, i youtubes fall är de rött.
 
 <img src='../image/youtube.PNG' alt='hejsan' width='800'>
