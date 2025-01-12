@@ -9,6 +9,8 @@ reports:
       class: laddningstider
     - name: 03_design_principles
       class: design-principer
+    - name: 11_design-och-webbplatser
+      class: design-principer
 ---
 
 <h1 class="techo-h1">Rapporter</h1>
