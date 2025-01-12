@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nerko+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Charm&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nerko+One&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 /*!
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
@@ -6432,6 +6433,10 @@ p {
   margin-bottom: 1.96rem;
 }
 
+article p {
+  font-family: "Tinos", serif;
+}
+
 html,
 body {
   height: 100%;
@@ -6441,6 +6446,7 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #fcf1c0;
+  background-image: linear-gradient(to left, #fae588, #fdf8e1, #fae588);
 }
 
 .main {
@@ -6491,6 +6497,20 @@ code {
 .nav a {
   font-size: 3rem;
   color: #000;
+}
+
+li a {
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: none;
+  border-bottom: 5px solid #000;
+  text-shadow: 1px 1px 3px #000;
+}
+
+.techo-h1 {
+  font-size: 3rem;
 }
 
 .footer {
@@ -6574,7 +6594,7 @@ pre code {
   grid-column: 2/4;
 }
 
-.farg {
+.color {
   grid-column: 1/4;
 }
 
@@ -6641,4 +6661,26 @@ pre code {
   .main {
     padding: 0;
   }
+}
+img,
+embed,
+object,
+video {
+  max-width: 100%;
+}
+
+picture img {
+  border: 5px solid #000;
+}
+
+picture img:hover {
+  opacity: 90%;
+  border: 5px solid #fdf8e1;
+}
+
+hr {
+  height: 2px;
+  border-width: 0;
+  color: #000;
+  background-color: #000;
 }
